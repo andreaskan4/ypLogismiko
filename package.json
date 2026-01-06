@@ -1,0 +1,17 @@
+{
+  "name": "expressjs_yp_logismiko",
+  "version": "1.0.0",
+  "description": "apallaktikh ergasia sto mathima",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "vaggelis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
